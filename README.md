@@ -1,10 +1,10 @@
 "# Proyecto Tienda POO con interfaces" 
-# 🛒 Proyecto Tienda POO con Interfaces y Herencia
+#  Proyecto Tienda POO con Interfaces y Herencia
 
 Este proyecto simula el funcionamiento básico de una tienda, implementado en Java siguiendo el paradigma de Programación Orientada a Objetos (POO).  
 Incluye clases abstractas, herencia, interfaces y manejo de listas dinámicas (`ArrayList`).
 
-## 🚀 Descripción
+##  Descripción
 
 El programa permite:
 - Ver el inventario de productos disponibles en la tienda.
@@ -14,13 +14,13 @@ El programa permite:
 
 Todo se gestiona mediante un menú interactivo desde la consola.
 
-## 🧩 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Java 17+
 - IntelliJ IDEA (desarrollo)
 - Git y GitHub para control de versiones
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
 - `Producto.java` → Clase abstracta para los productos.
 - `ProductoConcreto.java` → Clase concreta de producto.
@@ -35,4 +35,4 @@ Todo se gestiona mediante un menú interactivo desde la consola.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/Tienda-POO-Interfaces.git
+   git clone https://github.com/pablocarrillopunina/Tienda-POO-Interfaces.git
